@@ -64,18 +64,6 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
-## 📜 Certifications
-
-<!-- TODO: replace with your actual certificates, add/remove rows as needed -->
-
-| Certificate | Issued By |
-|---|---|
-| Introduction to AI Tools & Automation | _add issuer_ |
-| Python for Everybody | _add issuer_ |
-| Data Structures & Algorithms | _add issuer_ |
-
-<br/>
-
 ## 🎯 Currently Open To
 
 - 💼 **Internships** in AI/Automation, backend, or software development
@@ -136,7 +124,7 @@ Since you're already on my profile — try this mini-game I built to practice DS
 
 <div align="center">
 
-<a href="https://prathameshsawant6636.github.io/prathameshsawant6636/games/binary-search-blitz.html">
+<a href="https://prathameshsawant6636.github.io/games/binary-search-blitz.html">
   <img src="https://img.shields.io/badge/🎯_Binary_Search_Blitz-Play_Now-2575fc?style=for-the-badge"/>
 </a>
 

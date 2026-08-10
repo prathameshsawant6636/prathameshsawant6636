@@ -1,29 +1,13 @@
 ## Hi there 👋
 
-<!--
-**prathameshsawant6636/prathameshsawant6636** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Prathamesh%20Sawant&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Prathamesh%20Sawant&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20Automation%20Enthusiast%20%7C%20Aspiring%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing animation -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;I+love+open+source+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+with+AI+%26+Automation+%F0%9F%A4%96;Learning+DSA%2C+Java+%26+Python+%F0%9F%93%9A;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,6 +15,7 @@ Here are some ideas to get you started:
 <!-- Social badges -->
 <a href="mailto:prathameshsawantsaegd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/prathameshsawant6636"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pratamesh-sawant-056654327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -40,18 +25,19 @@ Here are some ideas to get you started:
 
 ```yaml
 name: Prathamesh Ramesh Sawant
-role: Full-Stack Developer          # TODO: update if this isn't your role
-location: India                     # TODO: add your city
-currently_working_on: Your Project Name Here     # TODO: update
-currently_learning: Your topics here             # TODO: update
-ask_me_about: React, Node.js, Python, DevOps     # TODO: update
+role: Computer Science Student (BCA)
+location: India
+currently_working_on: EDGE AI SMART PET MONITOR — AI-Based Rabbit Behavior Monitoring System (Hackathon Project)
+currently_learning: AI Tools, DSA, Java, Python, System Design
+ask_me_about: Java, Python, C++, DSA, AI Automation
 fun_fact: I debug better with coffee ☕
 ```
 
-- 🔭 I'm currently working on **[Project Name](#) — short description**
-- 🌱 I'm currently learning **(add topics here)**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, Python, Cloud & DevOps**
+- 🔭 I'm currently working on **EDGE AI SMART PET MONITOR — an AI-based Rabbit Behavior Monitoring System using Computer Vision, IoT and Edge AI, built during a hackathon**
+- 🌱 I'm currently learning **AI Tools & Automation, DSA, Java, Python, System Design**
+- 👯 I'm looking to collaborate on **open-source AI/Automation projects and DSA practice repositories**
+- 🤔 I'm looking for help with **real-world AI automation projects and system design best practices**
+- 💬 Ask me about **Java, Python, C++, DSA, AI Automation**
 - 📫 How to reach me: **prathameshsawantsaegd@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code**
 
@@ -63,41 +49,19 @@ fun_fact: I debug better with coffee ☕
 
 **Languages**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-**Frontend**
+**Currently Learning**
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-
-**Database & Cloud**
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetarchive&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-4B8BBE?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-2575fc?style=for-the-badge"/>
 
 </div>
 
@@ -124,29 +88,19 @@ fun_fact: I debug better with coffee ☕
 
 ## 🚀 Featured Projects
 
-<!-- TODO: Replace these with your actual repo names/links -->
 <div align="center">
 
-<a href="https://github.com/prathameshsawant6636/your-repo-1">
-  <img src="https://img.shields.io/badge/Your--Repo--1-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/prathameshsawant6636/edge-ai-smart-pet-monitor">
+  <img src="https://img.shields.io/badge/EDGE_AI_SMART_PET_MONITOR-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/prathameshsawant6636/your-repo-1?style=for-the-badge&color=6a11cb"/>
+<img src="https://img.shields.io/github/stars/prathameshsawant6636/edge-ai-smart-pet-monitor?style=for-the-badge&color=6a11cb"/>
 
-<br/><br/>
-
-<a href="https://github.com/prathameshsawant6636/your-repo-2">
-  <img src="https://img.shields.io/badge/Your--Repo--2-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/prathameshsawant6636/your-repo-2?style=for-the-badge&color=6a11cb"/>
-
-<br/><br/>
-
-<a href="https://github.com/prathameshsawant6636/your-repo-3">
-  <img src="https://img.shields.io/badge/Your--Repo--3-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/prathameshsawant6636/your-repo-3?style=for-the-badge&color=6a11cb"/>
+<br/>
+<sub>AI-Based Rabbit Behavior Monitoring System using Computer Vision, IoT and Edge AI — built during a hackathon</sub>
 
 </div>
+
+<!-- TODO: Update the link above with your actual repo name if different, and add more project cards below in the same format -->
 
 <br/>
 
@@ -172,6 +126,7 @@ fun_fact: I debug better with coffee ☕
 
 <a href="mailto:prathameshsawantsaegd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/prathameshsawant6636"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pratamesh-sawant-056654327/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 </div>
 

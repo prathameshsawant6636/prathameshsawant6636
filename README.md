@@ -16,8 +16,18 @@
 <a href="mailto:prathameshsawantsaegd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/prathameshsawant6636"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pratamesh-sawant-056654327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/prathameshsawant6636/prathameshsawant6636/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-2575fc?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏆_Hackathon_Participant-EDGE_AI_SMART_PET_MONITOR-2575fc?style=for-the-badge"/>
 
 </div>
+
+<br/>
+
+Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. I enjoy building practical, real-world solutions — like an AI-based rabbit behavior monitoring system I built at a hackathon using Computer Vision, IoT and Edge AI. Currently sharpening my skills in DSA, Java, Python and System Design, and always excited to learn and collaborate on new projects.
 
 <br/>
 
@@ -29,7 +39,7 @@ role: Computer Science Student (BCA)
 location: India
 currently_working_on: EDGE AI SMART PET MONITOR — AI-Based Rabbit Behavior Monitoring System (Hackathon Project)
 currently_learning: AI Tools, DSA, Java, Python, System Design
-ask_me_about: Java, Python, C++, DSA, AI Automation
+ask_me_about: Java, Python, C++, SQL, DSA, AI Automation
 fun_fact: I debug better with coffee ☕
 ```
 
@@ -37,9 +47,41 @@ fun_fact: I debug better with coffee ☕
 - 🌱 I'm currently learning **AI Tools & Automation, DSA, Java, Python, System Design**
 - 👯 I'm looking to collaborate on **open-source AI/Automation projects and DSA practice repositories**
 - 🤔 I'm looking for help with **real-world AI automation projects and system design best practices**
-- 💬 Ask me about **Java, Python, C++, DSA, AI Automation**
+- 💬 Ask me about **Java, Python, C++, SQL, DSA, AI Automation**
 - 📫 How to reach me: **prathameshsawantsaegd@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code**
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+**Bachelor of Computer Applications (BCA)** at Indira University, Pune
+`2025 — 2028`
+
+</div>
+
+<br/>
+
+## 📜 Certifications
+
+<!-- TODO: replace with your actual certificates, add/remove rows as needed -->
+
+| Certificate | Issued By |
+|---|---|
+| Introduction to AI Tools & Automation | _add issuer_ |
+| Python for Everybody | _add issuer_ |
+| Data Structures & Algorithms | _add issuer_ |
+
+<br/>
+
+## 🎯 Currently Open To
+
+- 💼 **Internships** in AI/Automation, backend, or software development
+- 🤝 **Open-source collaboration** on AI, automation & DSA repositories
+- 📚 **Study/DSA practice groups** — Java, Python, C++
+- 🎤 Chatting about **hackathons, edge AI & IoT projects**
 
 <br/>
 
@@ -54,8 +96,10 @@ fun_fact: I debug better with coffee ☕
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-**Currently Learning**
+**Interests**
 
 <img src="https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -80,9 +124,31 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&theme=redical" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&theme=radical" width="100%"/>
 
 </div>
+
+<br/>
+
+## 🎮 Play While You're Here
+
+Since you're already on my profile — try this mini-game I built to practice DSA concepts. No install, just click and play in your browser.
+
+<div align="center">
+
+<a href="https://prathameshsawant6636.github.io/prathameshsawant6636/games/binary-search-blitz.html">
+  <img src="https://img.shields.io/badge/🎯_Binary_Search_Blitz-Play_Now-2575fc?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br/>
+
+| Game | What it teaches | How it plays |
+|---|---|---|
+| 🎯 **Binary Search Blitz** | Binary Search — O(log n) | Guess a hidden number 1–100 in as few tries as possible while a live number-line shows the search space shrinking in half each guess. |
+
+<sub>⚙️ Game lives in <code>/games</code> in this repo. Enable **GitHub Pages** (Settings → Pages → deploy from `main` branch) so the link above goes live — until then, you can open the HTML file directly.</sub>
 
 <br/>
 
@@ -141,4 +207,3 @@ fun_fact: I debug better with coffee ☕
 ![Profile Views](https://komarev.com/ghpvc/?username=prathameshsawant6636&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
-

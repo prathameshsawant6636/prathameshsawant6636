@@ -17,7 +17,15 @@
 <a href="https://github.com/prathameshsawant6636"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pratamesh-sawant-056654327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🏆_Hackathon_Participant-EDGE_AI_SMART_PET_MONITOR-2575fc?style=for-the-badge"/>
+
 </div>
+
+<br/>
+
+Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. I enjoy building practical, real-world solutions — like an AI-based rabbit behavior monitoring system I built at a hackathon using Computer Vision, IoT and Edge AI. Currently sharpening my skills in DSA, Java, Python and System Design, and always excited to learn and collaborate on new projects.
 
 <br/>
 
@@ -43,6 +51,18 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
+## 🎓 Education
+
+<div align="center">
+
+**Bachelor of Computer Applications (BCA)**
+Indira University, Pune
+`2025 — 2028`
+
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -55,7 +75,7 @@ fun_fact: I debug better with coffee ☕
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-**Currently Learning**
+**Interests**
 
 <img src="https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -80,7 +100,7 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&theme=redical" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&theme=radical" width="100%"/>
 
 </div>
 

@@ -37,7 +37,7 @@ role: Computer Science Student (BCA)
 location: India
 currently_working_on: EDGE AI SMART PET MONITOR — AI-Based Rabbit Behavior Monitoring System (Hackathon Project)
 currently_learning: AI Tools, DSA, Java, Python, System Design
-ask_me_about: Java, Python, C++, DSA, AI Automation
+ask_me_about: Java, Python, C++, SQL, DSA, AI Automation
 fun_fact: I debug better with coffee ☕
 ```
 
@@ -45,7 +45,7 @@ fun_fact: I debug better with coffee ☕
 - 🌱 I'm currently learning **AI Tools & Automation, DSA, Java, Python, System Design**
 - 👯 I'm looking to collaborate on **open-source AI/Automation projects and DSA practice repositories**
 - 🤔 I'm looking for help with **real-world AI automation projects and system design best practices**
-- 💬 Ask me about **Java, Python, C++, DSA, AI Automation**
+- 💬 Ask me about **Java, Python, C++, SQL, DSA, AI Automation**
 - 📫 How to reach me: **prathameshsawantsaegd@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code**
 
@@ -55,8 +55,7 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-**Bachelor of Computer Applications (BCA)**
-Indira University, Pune
+**Bachelor of Computer Applications (BCA)** at Indira University, Pune
 `2025 — 2028`
 
 </div>
@@ -74,6 +73,7 @@ Indira University, Pune
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Interests**
 

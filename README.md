@@ -16,6 +16,8 @@
 <a href="mailto:prathameshsawantsaegd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/prathameshsawant6636"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pratamesh-sawant-056654327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/prathameshsawant6636/prathameshsawant6636/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-2575fc?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -62,6 +64,27 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
+## 📜 Certifications
+
+<!-- TODO: replace with your actual certificates, add/remove rows as needed -->
+
+| Certificate | Issued By |
+|---|---|
+| Introduction to AI Tools & Automation | _add issuer_ |
+| Python for Everybody | _add issuer_ |
+| Data Structures & Algorithms | _add issuer_ |
+
+<br/>
+
+## 🎯 Currently Open To
+
+- 💼 **Internships** in AI/Automation, backend, or software development
+- 🤝 **Open-source collaboration** on AI, automation & DSA repositories
+- 📚 **Study/DSA practice groups** — Java, Python, C++
+- 🎤 Chatting about **hackathons, edge AI & IoT projects**
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -103,6 +126,42 @@ fun_fact: I debug better with coffee ☕
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&theme=radical" width="100%"/>
 
 </div>
+
+<br/>
+
+## 🧮 LeetCode Stats
+
+<!-- TODO: replace YOUR_LEETCODE_USERNAME with your actual LeetCode handle -->
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+<br/>
+
+## 🎮 Play While You're Here
+
+Since you're already on my profile — try these two mini-games I built to practice DSA concepts. No install, just click and play in your browser.
+
+<div align="center">
+
+<a href="https://prathameshsawant6636.github.io/prathameshsawant6636/games/binary-search-blitz.html">
+  <img src="https://img.shields.io/badge/🎯_Binary_Search_Blitz-Play_Now-2575fc?style=for-the-badge"/>
+</a>
+<a href="https://prathameshsawant6636.github.io/prathameshsawant6636/games/stack-rush.html">
+  <img src="https://img.shields.io/badge/🧱_Stack_Rush-Play_Now-ff6fd8?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br/>
+
+| Game | What it teaches | How it plays |
+|---|---|---|
+| 🎯 **Binary Search Blitz** | Binary Search — O(log n) | Guess a hidden number 1–100 in as few tries as possible while a live number-line shows the search space shrinking in half each guess. |
+| 🧱 **Stack Rush** | Stacks & Valid Parentheses (LeetCode #20) | A random bracket string flashes on screen — decide fast if it's *balanced* or not, then watch a step-by-step stack trace reveal exactly why. Speed increases as your score climbs. |
+
+<sub>⚙️ Games live in <code>/games</code> in this repo. Enable **GitHub Pages** (Settings → Pages → deploy from `main` branch) so the links above go live — until then, you can open the HTML files directly.</sub>
 
 <br/>
 

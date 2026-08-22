@@ -118,28 +118,6 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
-## 🎮 Play While You're Here
-
-Since you're already on my profile — try this mini-game I built to practice DSA concepts. No install, just click and play in your browser.
-
-<div align="center">
-
-<a href="https://prathameshsawant6636.github.io/games/binary-search-blitz.html">
-  <img src="https://img.shields.io/badge/🎯_Binary_Search_Blitz-Play_Now-2575fc?style=for-the-badge"/>
-</a>
-
-</div>
-
-<br/>
-
-| Game | What it teaches | How it plays |
-|---|---|---|
-| 🎯 **Binary Search Blitz** | Binary Search — O(log n) | Guess a hidden number 1–100 in as few tries as possible while a live number-line shows the search space shrinking in half each guess. |
-
-<sub>⚙️ Game lives in <code>/games</code> in this repo. Enable **GitHub Pages** (Settings → Pages → deploy from `main` branch) so the link above goes live — until then, you can open the HTML file directly.</sub>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">

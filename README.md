@@ -19,15 +19,11 @@
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://github.com/prathameshsawant6636/prathameshsawant6636/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-2575fc?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏆_Hackathon_Participant-EDGE_AI_SMART_PET_MONITOR-2575fc?style=for-the-badge"/>
-
 </div>
 
 <br/>
 
-Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. I enjoy building practical, real-world solutions — like an AI-based rabbit behavior monitoring system I built at a hackathon using Computer Vision, IoT and Edge AI. Currently sharpening my skills in DSA, Java, Python and System Design, and always excited to learn and collaborate on new projects.
+Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. Currently sharpening my skills in DSA, Java, Python and System Design, and always excited to learn and collaborate on new projects.
 
 <br/>
 
@@ -37,13 +33,11 @@ Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. I enjoy bu
 name: Prathamesh Ramesh Sawant
 role: Computer Science Student (BCA)
 location: India
-currently_working_on: EDGE AI SMART PET MONITOR — AI-Based Rabbit Behavior Monitoring System (Hackathon Project)
 currently_learning: AI Tools, DSA, Java, Python, System Design
 ask_me_about: Java, Python, C++, SQL, DSA, AI Automation
 fun_fact: I debug better with coffee ☕
 ```
 
-- 🔭 I'm currently working on **EDGE AI SMART PET MONITOR — an AI-based Rabbit Behavior Monitoring System using Computer Vision, IoT and Edge AI, built during a hackathon**
 - 🌱 I'm currently learning **AI Tools & Automation, DSA, Java, Python, System Design**
 - 👯 I'm looking to collaborate on **open-source AI/Automation projects and DSA practice repositories**
 - 🤔 I'm looking for help with **real-world AI automation projects and system design best practices**
@@ -69,7 +63,6 @@ fun_fact: I debug better with coffee ☕
 - 💼 **Internships** in AI/Automation, backend, or software development
 - 🤝 **Open-source collaboration** on AI, automation & DSA repositories
 - 📚 **Study/DSA practice groups** — Java, Python, C++
-- 🎤 Chatting about **hackathons, edge AI & IoT projects**
 
 <br/>
 
@@ -115,24 +108,6 @@ fun_fact: I debug better with coffee ☕
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&theme=radical" width="100%"/>
 
 </div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/prathameshsawant6636/edge-ai-smart-pet-monitor">
-  <img src="https://img.shields.io/badge/EDGE_AI_SMART_PET_MONITOR-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/prathameshsawant6636/edge-ai-smart-pet-monitor?style=for-the-badge&color=6a11cb"/>
-
-<br/>
-<sub>AI-Based Rabbit Behavior Monitoring System using Computer Vision, IoT and Edge AI — built during a hackathon</sub>
-
-</div>
-
-<!-- TODO: Update the link above with your actual repo name if different, and add more project cards below in the same format -->
 
 <br/>
 

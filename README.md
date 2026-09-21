@@ -77,7 +77,7 @@ A responsive web application built using **HTML, CSS & JavaScript** for real-tim
 
 <br/><br/>
 
-💻 **Source Code:** <a href="YOUR_GITHUB_PROJECT_REPOSITORY"> <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+💻 **Source Code:** <a href="currencyx-trust-layer"> <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </div>
 

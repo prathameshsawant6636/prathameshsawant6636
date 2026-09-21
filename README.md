@@ -73,7 +73,7 @@ fun_fact: I debug better with coffee ☕
 
 A responsive web application built using **HTML, CSS & JavaScript** for real-time currency conversion.
 
-🚀 **Live Demo:** <a href="YOUR_VERCEL_PROJECT_URL"> <img src="https://img.shields.io/badge/Visit%20Live%20Project-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+🚀 **Live Demo:** <a href="[YOUR_VERCEL_PROJECT_URL](https://vercel.com/simple-12f3/currencyx-trust-layer/CergA9PFoEi8cKtDz1BXEC1hTSg6)"> <img src="https://img.shields.io/badge/Visit%20Live%20Project-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 
 <br/><br/>
 

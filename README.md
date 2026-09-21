@@ -66,6 +66,7 @@ fun_fact: I debug better with coffee ☕
 <br/>
 
 ## 🚀 Hackathon Projects & Live Demos
+<!-- 🚀 Hackathon Projects & Live Demos Section -->
 
 <div align="center">
 
@@ -73,11 +74,13 @@ fun_fact: I debug better with coffee ☕
 
 A responsive web application built using **HTML, CSS & JavaScript** for real-time currency conversion.
 
-🚀 **Live Demo:** <a href="[YOUR_VERCEL_PROJECT_URL](https://vercel.com/simple-12f3/currencyx-trust-layer/CergA9PFoEi8cKtDz1BXEC1hTSg6)"> <img src="https://img.shields.io/badge/Visit%20Live%20Project-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+🚀 **Live Demo:** <a href="https://currencyx-trust-layer-alpha.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Visit%20Live%20Project-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 
 <br/><br/>
 
-💻 **Source Code:** <a href="currencyx-trust-layer"> <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+💻 **Source Code:** <a href="https://github.com/prathameshsawant6636/currencyx-trust-layer"> <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+</div>
 
 </div>
 

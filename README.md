@@ -65,7 +65,7 @@ fun_fact: I debug better with coffee ☕
 
 <br/>
 
-## 🚀 Hackathon Projects & Live Demos
+## 🚀  Projects & Live Demos
 <!-- 🚀 Hackathon Projects & Live Demos Section -->
 
 <div align="center">
@@ -139,12 +139,12 @@ A responsive web application built using **HTML, CSS & JavaScript** for real-tim
 
 <br/>
 
+
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshsawant6636&theme=react-dark&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff" width="100%" />
 </div>
-
 <br/>
 
 ## 🤝 Connect With Me

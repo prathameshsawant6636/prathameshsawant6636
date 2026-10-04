@@ -31,7 +31,7 @@ Hey! I'm a 2nd year BCA student passionate about **AI & Automation**. Currently 
 ```yaml
 name: Prathamesh Ramesh Sawant
 role: Computer Science Student (BCA)
-location: India
+location: Maharashtra, India
 currently_learning: AI Tools, DSA, Java, Python, System Design
 ask_me_about: Java, Python, C++, SQL, DSA, AI Automation
 fun_fact: I debug better with coffee ☕
